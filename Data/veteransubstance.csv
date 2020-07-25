@@ -1,0 +1,21 @@
+Dependence,Substance,Weighted Count
+"No, Veteran",Alcohol,17160567.35
+"No, Non-Veteran",Alcohol,4627972.35
+"Yes, Veteran",Alcohol,324543.5252
+"Yes, Non-Veteran",Alcohol,73457.42346
+"No, Veteran",Marijuana,17421924.53
+"No, Non-Veteran",Marijuana,4687120.221
+"Yes, Veteran",Marijuana,63186.34595
+"Yes, Non-Veteran",Marijuana,14309.55228
+"No, Veteran",Pain Reliever,17460529.74
+"No, Non-Veteran",Pain Reliever,4699667.815
+"Yes, Veteran",Pain Reliever,24581.13529
+"Yes, Non-Veteran",Pain Reliever,1761.95831
+"No, Veteran",Heroin,17436481.51
+"No, Non-Veteran",Heroin,4701429.773
+"Yes, Veteran",Heroin,48629.36509
+"Yes, Non-Veteran",Heroin,0
+"No, Veteran",Cocaine,17478545.88
+"No, Non-Veteran",Cocaine,4697826.21
+"Yes, Veteran",Cocaine,6564.998307
+"Yes, Non-Veteran",Cocaine,3603.563065
